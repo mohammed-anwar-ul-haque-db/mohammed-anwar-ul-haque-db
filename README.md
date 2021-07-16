@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mohammed-anwar-ul-haque-db (Anwar Haque)
+- 👋 Hi, I’m Anwar Haque, part of RFT Transformation, leading the 
+GCP DevOps best practices.
 - 👀 I’m interested in instrumenting end to end pipelines on Infrastructure - Terraform and GCP,
 Set pipeline as code with GitHub actions for application and database.
 - 🌱 I’m currently learning GCP DevOps strategies
