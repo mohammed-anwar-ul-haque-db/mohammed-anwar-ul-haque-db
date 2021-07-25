@@ -2,8 +2,8 @@
 GCP DevOps best practices.
 - 👀 I’m interested in instrumenting end to end pipelines on Infrastructure - Terraform and GCP,
 Set pipeline as code with GitHub actions for application and database.
-- 🌱 I’m currently learning GCP DevOps strategies
-- 💞️ I’m looking to collaborate on end to end DevOps implementation
+- 🌱 I’m currently learning and implementing GCP DevOps strategies and best practices for 2021 Pioneer appliction - GCP migration.
+- 💞️ I’m looking to collaborate on prototypes and desings for Pipeline-as-code, DevSecOps and SRE.
 - 📫 How to reach me - Skype, Symphony or email mohammed-anwar-ul.haque@db.com
 
 <!---
