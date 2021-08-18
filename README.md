@@ -4,7 +4,6 @@ GCP DevOps best practices.
 Set pipeline as code with GitHub actions for application and database.
 - 🌱 I’m currently learning and implementing GCP DevOps strategies and best practices for 2021 Pioneer appliction - GCP migration.
 - 💞️ I’m looking to collaborate on prototypes and desings for Pipeline-as-code, DevSecOps and SRE.
-- 📫 How to reach me - Skype, Symphony or email mohammed-anwar-ul.haque@db.com
 
 <!---
 mohammed-anwar-ul-haque-db/mohammed-anwar-ul-haque-db is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
